@@ -1262,6 +1262,8 @@ body {
   bottom: 0;
   width: 100%;
   z-index: -1;
+  background-color: #000;
+  opacity: 0.4;
 }
 #nexmoe-content .nexmoe-post .nexmoe-post-meta {
   margin: 25px 0px;
